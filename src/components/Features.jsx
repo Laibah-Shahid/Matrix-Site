@@ -25,10 +25,9 @@ const Features = () => {
             transition={{ duration: 0.8 }}
           >
             <img src={coms} alt="Feature Icon" className="w-16 h-16 mb-4" />
-            <h3 className="text-xl font-bold text-white mb-2">Feature 1</h3>
+            <h3 className="text-xl font-bold text-white mb-2">Dynamic Chat</h3>
             <p className="text-gray-300 text-center">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-              vitae scelerisque elit.
+            Experience a dynamic chat  adapting in real-time to the evolving rhythm of interaction and engaging communication experiences
             </p>
           </motion.div>
           <motion.div
@@ -38,10 +37,9 @@ const Features = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
           >
             <img src={EarPhone} alt="Feature Icon" className="w-16 h-16 mb-4" />
-            <h3 className="text-xl font-bold text-white mb-2">Feature 2</h3>
+            <h3 className="text-xl font-bold text-white mb-2">Precision Track</h3>
             <p className="text-gray-300 text-center">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-              vitae scelerisque elit.
+            Monitor your progress with pinpoint accuracy and meticulous tracking capabilities, ensuring every step is measured with precision.
             </p>
           </motion.div>
           <motion.div
@@ -51,10 +49,9 @@ const Features = () => {
             transition={{ duration: 0.8, delay: 0.4 }}
           >
             <img src={Location} alt="Feature Icon" className="w-16 h-16 mb-4" />
-            <h3 className="text-xl font-bold text-white mb-2">Feature 3</h3>
+            <h3 className="text-xl font-bold text-white mb-2">Insightful Map</h3>
             <p className="text-gray-300 text-center">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-              vitae scelerisque elit.
+            Gain valuable insights into your surroundings and destinations with detailed mapping and informative overlays.
             </p>
           </motion.div>
           

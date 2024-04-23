@@ -7,17 +7,17 @@ const Testimonials = () => {
     {
       id: 1,
       name: 'John Doe',
-      quote: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut aliquam felis velit, a placerat ligula lacinia et.',
+      quote: 'From its sleek and intuitive interface to its robust functionality, every aspect of this app is designed with the user in mind',
     },
     {
       id: 2,
       name: 'Jane Smith',
-      quote: 'Vestibulum nec metus quis justo vestibulum vestibulum. Morbi varius nunc sit amet dui faucibus, ut laoreet elit semper.',
+      quote: 'Whether you are performing basic calculations or complex operations, this app delivers with precision and speed',
     },
     {
       id: 3,
       name: 'David Johnson',
-      quote: 'Aenean sagittis ligula ac velit pellentesque, at pretium elit tincidunt. Nunc eleifend arcu at sapien ullamcorper iaculis.',
+      quote: ' This app sets the standard for what a matrix app should be, and once you try it, you will wonder how you ever lived without this.',
     },
   ];
 

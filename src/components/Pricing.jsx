@@ -8,19 +8,19 @@ const Pricing = () => {
       id: 1,
       title: 'Basic',
       price: '$9.99',
-      features: ['Feature 1', 'Feature 2', 'Feature 3'],
+      features: ['Matrix Operations', 'Matrix Creation', 'Basic Editing'],
     },
     {
       id: 2,
       title: 'Pro',
       price: '$19.99',
-      features: ['Feature 1', 'Feature 2', 'Feature 3', 'Feature 4'],
+      features: ['Matrix Operations', 'Matrix Creation', 'Basic Editing', 'Advanced Visualization'],
     },
     {
       id: 3,
       title: 'Premium',
       price: '$29.99',
-      features: ['Feature 1', 'Feature 2', 'Feature 3', 'Feature 4', 'Feature 5'],
+      features: ['Matrix Operations', 'Matrix Creation', 'Matrix Storage', 'Priority Support', 'Exclusive Content'],
     },
   ];
 
